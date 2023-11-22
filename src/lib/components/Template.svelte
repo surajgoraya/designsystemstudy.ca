@@ -14,15 +14,15 @@
     implement? What does the future of design systems look like? To answer these questions this
     study at the University of Guelph will set out to interview those who build, maintain, or use design systems across a variety of 
     organization sizes."
-	canonical="https://www.designsystemstudy.ca/"
+	canonical="https://designsystemstudy.ca/"
 	openGraph={{
-		url: 'https://www.designsystemstudy.ca/',
+		url: 'https://designsystemstudy.ca/',
 		title: `Design System Study - ${Title}`,
 		description:
 			'At what point do design systems become viable for organizations to implement? What does the future of design systems look like? To answer these questions this study at the University of Guelph will set out to interview those who build, maintain, or use design systems across a variety of organization sizes.',
 		images: [
 			{
-				url: 'https://www.example.ie/ogp/ogp1.png',
+				url: 'https://designsystemstudy.ca/ogp/ogp1.png',
 				width: 1920,
 				height: 1080,
 				alt: 'A black and white image displaying the text "design system study." on the bottom left, in white and the text "University of Guelph" on the top right.'
