@@ -5,10 +5,9 @@
 	import Footer from '$lib/components/Footer.svelte';
 	import Nav from '$lib/components/Nav.svelte';
 	import SkipToMain from '$lib/components/SkipToMain.svelte';
-
 </script>
 
-<SkipToMain/>
+<SkipToMain />
 <Nav />
 <slot />
 <Footer />

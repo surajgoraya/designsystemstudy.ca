@@ -3,7 +3,11 @@
 </script>
 
 <Template Title={'University of Guelph'}>
-	<img class="heading" src="ds-unsplash.jpg" />
+	<img
+		class="heading"
+		src="ds-unsplash.jpg"
+		alt="A Mac computer displaying Figma. The Figma applicaiton on the screen is displaying a design system, there are various canvases showing words such as 'Components', 'Colours', 'etc...'. The computer is partially obstructed by out of focus green leafs from a plant "
+	/>
 	<h1>Design System Study</h1>
 	<div class="study-info">
 		<b>STUDY INFORMATION</b>
@@ -18,22 +22,10 @@
 	</div>
 	<section>
 		<h2>What happens during the study?</h2>
-		<p>
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea velit illum quo facilis eius
-			eligendi quia enim sint temporibus, qui voluptas a consequuntur recusandae officia quos! Dolor
-			inventore quaerat earum. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni
-			dolores repellat rerum tempore harum dolor perferendis adipisci, consequatur, nam consectetur
-			odio laboriosam quo autem. Voluptates tenetur minus iste aperiam nihil.
-		</p>
+		<p></p>
 	</section>
 	<section>
 		<h2>Benefits & Incentives</h2>
-		<p>
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea velit illum quo facilis eius
-			eligendi quia enim sint temporibus, qui voluptas a consequuntur recusandae officia quos! Dolor
-			inventore quaerat earum. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni
-			dolores repellat rerum tempore harum dolor perferendis adipisci, consequatur, nam consectetur
-			odio laboriosam quo autem. Voluptates tenetur minus iste aperiam nihil.
-		</p>
+		<p></p>
 	</section>
 </Template>

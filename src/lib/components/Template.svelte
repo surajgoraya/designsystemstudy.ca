@@ -1,3 +1,11 @@
+<!-- 
+	@component
+	
+	The template component should be used on every page. It contains standardized meta tags which ensures that every page
+	using this component is SEO compliant. It also ensures compatibility with the "SkipToMain" component, as it automatically
+	assigns the `<main` element a `id="contnent"`
+	
+ -->
 <script>
 	import { MetaTags } from 'svelte-meta-tags'; // Import the MetaTags component.
 
