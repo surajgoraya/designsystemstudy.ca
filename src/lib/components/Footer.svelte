@@ -9,16 +9,16 @@
 
 <hr />
 <footer class="dimmed">
-	&copy; University of Guelph HCI Lab & Authors
-	<img
-		class="dimmed"
-		src="UofG_Identifier_stacked_blk_rgb.png"
-		alt="The logo of the University of Guelph. In a serif font it displays the words 'University' at the top and 'of Guelph' just below it. The logo is surrounded by straight lines stacked on the top of the logo and on the bottom."
-	/>
+  &copy; University of Guelph HCI Lab & Authors
+  <img
+    class="dimmed"
+    src="UofG_Identifier_stacked_blk_rgb.png"
+    alt="The logo of the University of Guelph. In a serif font it displays the words 'University' at the top and 'of Guelph' just below it. The logo is surrounded by straight lines stacked on the top of the logo and on the bottom."
+  />
 </footer>
 
 <style>
-	.dimmed {
-		opacity: 0.8;
-	}
+  .dimmed {
+    opacity: 0.8;
+  }
 </style>
