@@ -1,0 +1,83 @@
+@import url('./noramlize.css');
+@import url('./sakura.css');
+
+body {
+	font-family: 'Inter', sans-serif;
+}
+
+.nav {
+	margin-top: 1rem;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+nav .brand {
+	width: 10rem;
+}
+
+.navigation {
+	list-style: none;
+	display: flex;
+	gap: 0.5rem;
+	padding: 0px;
+}
+
+.navigation > li:not(:last-child)::after {
+	content: ' · ';
+}
+.wide-screen {
+	top: 0;
+	left: 0;
+	position: absolute;
+	min-width: 100vw;
+	height: 25vh;
+	aspect-ratio: 16/9;
+}
+.after-jumbotron {
+	margin-top: 30vh;
+}
+
+footer > img {
+	margin: 1rem 000;
+	height: 40px;
+	/* aspect-ratio: 16 / 9; */
+}
+
+footer {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.dimmed {
+	opacity: 0.8;
+}
+
+.study-info {
+	border-style: dotted;
+	border-spacing: 1rem;
+	padding: 1rem;
+}
+
+.study-info > p {
+	margin: 0.5rem 0 0 0;
+}
+
+.heading {
+	aspect-ratio: 16/9;
+	margin: 2rem 0 -2rem 0;
+}
+@media screen and (max-width: 640px) {
+	.nav {
+		margin-top: 2rem;
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+		justify-content: center;
+	}
+
+	nav .brand {
+		width: 10rem;
+	}
+}
