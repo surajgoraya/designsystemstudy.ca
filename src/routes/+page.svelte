@@ -12,17 +12,17 @@
   <div class="study-info">
     <b>STUDY INFORMATION</b>
     <p>
-      <i class="bi bi-person-fill"></i> Surajpratap Goraya,
+      <i class="bi bi-person-fill" aria-label="Authors: "></i> Surajpratap Goraya,
       <a href="https://scholar.google.ca/citations?user=pJjyC-AAAAAJ&hl=en&oi=ao"
         >Dr. David Flatla</a
       >,
     </p>
     <p>
-      <i class="bi bi-mortarboard-fill"></i>
+      <i class="bi bi-mortarboard-fill" aria-label="University / Institution: "></i>
       <a href="https://www.uoguelph.ca/computing/">University of Guelph</a>, Ontario, Canada,
     </p>
     <p>
-      <i class="bi bi-geo-fill"></i>
+      <i class="bi bi-geo-fill" aria-label="Location: "></i>
       Conducted online only, via Microsoft Teams (fully remote).
     </p>
   </div>
@@ -37,13 +37,13 @@
     </p>
     <p />
     <p>
-      Its secondary focus is on exploring what the future of design systems looks like? Have design
+      Its secondary focus is on exploring what the future of design systems looks like. Have design
       systems achieved what they set out to do? Have they outstayed their welcome? We're interested
       in the thoughts design system practitioners have about where they see design systems now, and
       where they see them in the future.
     </p>
-    </section>
-    <section class="what-happens-during-the-study">
+  </section>
+  <section class="what-happens-during-the-study">
     <h2>What happens during the study?</h2>
     <p>
       We're inviting you to a one-on-one approximately 60-minute interview over the video
@@ -67,10 +67,10 @@
   <section id="benefits-and-incentives">
     <h2>Benefits & Incentives</h2>
     <p>
-      You will be provided an incentive of $20 Canadian Dollars (CAD), for your participation in
-      this study, which will be sent to you via e-Transfer, PayPal, or Amazon Gift Card (your
-      choice). If you choose to withdraw, there will be no penalty and you will still be provided
-      the full incentive ($20 CAD equivalent Amazon Gift Card, PayPal, or e-Transfer).
+      <strong>You will be provided an incentive of $20 Canadian Dollars (CAD)</strong>, for your
+      participation in this study, which will be sent to you via e-Transfer, PayPal, or Amazon Gift
+      Card (your choice). If you choose to withdraw, there will be no penalty and you will still be
+      provided the full incentive ($20 CAD equivalent Amazon Gift Card, PayPal, or e-Transfer).
     </p>
     <p>
       it is unlikely that there will be any other direct benefits to you, however, by better
@@ -83,18 +83,33 @@
     <p><b>We'd love to have you!</b>, thank you so much for expressing your interest!</p>
     <h3>Our Inclusion Criteria</h3>
     <p>
-      This study is open to anyone 18-years or older who currently works on design systems as a
+      This study is <b>open to anyone 18-years or older</b> who currently works on design systems as a
       designer or developer (or equivalent role). We're looking for participants from a wide variety
-      of company sizes (small, medium and large), as defined by Innovation, Science and Economic
-      Development Canada (Canada's Ministry of Industry).
+      of organization sizes (small, medium and large), as defined by <a
+        href="https://ised-isde.canada.ca/site/sme-research-statistics/en/key-small-business-statistics/key-small-business-statistics-2022#sB"
+      >
+        Innovation, Science and Economic Development Canada</a
+      >
+      (Canada's Ministry of Industry).
+      <br/>
+      <br/>
+      <b>This means we're looking for those working in the following sized organizations:</b>
     </p>
+    <ul>
+      <li><strong>Small:</strong> 1 to 99 paid employees.</li>
+      <li><strong>Medium:</strong> 100 to 499 paid employees.</li>
+      <li><strong>Large:</strong> 500 or more paid employees.</li>
+    </ul>
     <!-- <h3>Contact</h3> -->
     <p class="study-info">
       <b>If you fit our criteria and would like to participate: </b> please email
       <a href="mailto:gorayas@uoguelph.ca">gorayas@uoguelph.ca</a> expressing your interest, we'd love
       to have you!
     </p>
-    <p>Once you email, we will provide you with additional information, a consent form and the interview questions!</p>
+    <p>
+      Once you email, we will provide you with additional information, a consent form and the
+      interview questions!
+    </p>
   </section>
 </Template>
 
