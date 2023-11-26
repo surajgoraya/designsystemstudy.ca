@@ -7,7 +7,7 @@ implement? What does the future of design systems look like? To answer these que
 study at the University of Guelph's School of Computer Science will set out to interview those who build, maintain, or use design systems across a variety of
 organization sizes.
 
-This repo contains the code for the public facing website for this study. If you'd like to participate in the study or would like more information, please visit the website: [designsystemstudy.ca](https://designsystemstudy.ca)
+**This repo contains the code for the public facing website for this study. If you'd like to participate in the study or would like more information, please visit the website:** [designsystemstudy.ca](https://designsystemstudy.ca)
 
 ## Developing
 
