@@ -4,7 +4,7 @@
 	This component is used for compliance with WCAG SC 2.4.1 (see: https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-skip.html),
 	it displays a "skip to main content" link at the top of the page when tabbed / highlighted into focus (otherwise it stays hidden).
 
-	*NOTE This component should be placed at the top of every page, before the navigation element*
+  **NOTE: This component should be placed at the top of every page, before the navigation element**
 	
  -->
 <a class="skip_link" href="#content">Skip To Main Content</a>

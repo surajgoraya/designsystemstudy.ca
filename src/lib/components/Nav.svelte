@@ -3,7 +3,7 @@
 
 	This component is used to display a navigation bar at the top of every page.
 
-	**This should be used on every page**
+  **NOTE: This element should be used on all pages.**
  -->
 <nav>
   <div class="nav">
@@ -17,7 +17,8 @@
             </div> -->
     </div>
     <ul class="navigation">
-      <li><a href="/">design system study</a></li>
+      <li><a href="/">home</a></li>
+      <li><a href="/#how-do-i-participate">how do i participate?</a></li>
       <li><a href="/about">about</a></li>
     </ul>
   </div>
