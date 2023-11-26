@@ -1,18 +1,13 @@
-# create-svelte
+# Design System Study
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+![](./static/ogp/ogp.png)
 
-## Creating a project
+At what point do design systems become viable for organizations to
+implement? What does the future of design systems look like? To answer these questions this
+study at the University of Guelph's School of Computer Science will set out to interview those who build, maintain, or use design systems across a variety of
+organization sizes.
 
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+This repo contains the code for the public facing website for this study. If you'd like to participate in the study or would like more information, please visit the website: [designsystemstudy.ca](https://designsystemstudy.ca)
 
 ## Developing
 
