@@ -80,7 +80,7 @@
   </section>
   <section id="how-do-i-participate">
     <h2>How do I Participate?</h2>
-    <p><b>We'd love to have you!</b>, thank you so much for expressing your interest!</p>
+    <p><b>We'd love to have you!</b> Thank you so much for expressing your interest!</p>
     <h3>Our Inclusion Criteria</h3>
     <p>
       This study is <b>open to anyone 18-years or older</b> who currently works on design systems as a

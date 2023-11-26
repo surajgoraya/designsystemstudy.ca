@@ -9,7 +9,7 @@
 
 <hr />
 <footer class="dimmed">
-  &copy; University of Guelph HCI Lab & Authors
+  &copy; 2023 Goraya & Flatla | UofG SoCS HCI Lab.
   <img
     class="dimmed"
     src="/UofG_Identifier_stacked_blk_rgb.png"
