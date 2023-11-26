@@ -3,10 +3,15 @@
 </script>
 
 <Template Title={null}>
+  <!-- <img
+    class="heading"
+    src="main-header.png"
+    alt="A Mac computer displaying Figma. The Figma application on the screen is displaying a design system, there are various canvases showing words such as 'Components', 'Colours', 'etc...'. The computer is partially obstructed by out of focus green leafs from a plant "
+  /> -->
   <img
     class="heading"
-    src="ds-unsplash.jpg"
-    alt="A Mac computer displaying Figma. The Figma application on the screen is displaying a design system, there are various canvases showing words such as 'Components', 'Colours', 'etc...'. The computer is partially obstructed by out of focus green leafs from a plant "
+    src="main-header.png"
+    alt="Semi-translucent shapes representing common UI elements on a black background."
   />
   <h1>Design System Study</h1>
   <div class="study-info">
@@ -115,7 +120,7 @@
 
 <style>
   .heading {
-    object-fit: cover;
+    object-fit:cover;
     height: 20vh;
     width: 100%;
     aspect-ratio: 16/9;
