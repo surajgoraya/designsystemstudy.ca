@@ -9,7 +9,7 @@
 
 <hr />
 <footer class="dimmed">
-  &copy; 2023 Goraya & Flatla
+  &copy; 2023-2024 Goraya & Flatla
   <img
     class="dimmed"
     src="/UofG_Identifier_stacked_blk_rgb.png"
