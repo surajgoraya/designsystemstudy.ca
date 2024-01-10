@@ -72,10 +72,10 @@
   <section id="benefits-and-incentives">
     <h2>Benefits & Incentives</h2>
     <p>
-      <strong>You will be provided an incentive of $20 Canadian Dollars (CAD)</strong>, for your
+      <strong>You will be provided an incentive of $25 Canadian Dollars (CAD)</strong>, for your
       participation in this study, which will be sent to you via e-Transfer, PayPal, or Amazon Gift
       Card (your choice). If you choose to withdraw, there will be no penalty and you will still be
-      provided the full incentive ($20 CAD equivalent Amazon Gift Card, PayPal, or e-Transfer).
+      provided the full incentive ($25 CAD equivalent Amazon Gift Card, PayPal, or e-Transfer).
     </p>
     <p>
       it is unlikely that there will be any other direct benefits to you, however, by better
@@ -88,16 +88,19 @@
     <p><b>We'd love to have you!</b> Thank you so much for expressing your interest!</p>
     <h3>Our Inclusion Criteria</h3>
     <p>
-      This study is <b>open to anyone 18-years or older</b> who currently works on design systems as a
-      designer or developer (or equivalent role). We're looking for participants from a wide variety
-      of organization sizes (small, medium and large), as defined by <a
+      This study is <b
+        >open to anyone 18-years or older who currently works on design systems as a designer or
+        developer (or equivalent role) and is comfortable speaking in English.
+      </b>We're looking for participants from a wide variety of organization sizes (small, medium
+      and large), as defined by
+      <a
         href="https://ised-isde.canada.ca/site/sme-research-statistics/en/key-small-business-statistics/key-small-business-statistics-2022#sB"
       >
         Innovation, Science and Economic Development Canada</a
       >
       (Canada's Ministry of Industry).
-      <br/>
-      <br/>
+      <br />
+      <br />
       <b>This means we're looking for those working in the following sized organizations:</b>
     </p>
     <ul>
@@ -120,7 +123,7 @@
 
 <style>
   .heading {
-    object-fit:cover;
+    object-fit: cover;
     height: 20vh;
     width: 100%;
     aspect-ratio: 16/9;
