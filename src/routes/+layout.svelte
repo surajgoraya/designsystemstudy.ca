@@ -7,7 +7,12 @@
   import SkipToMain from '$lib/components/SkipToMain.svelte';
 </script>
 
-<SkipToMain />
-<Nav />
+<!-- <SkipToMain /> -->
+<h1>Thanks for checking in,</h1>
+Intake for this study has been paused, check back later!
+<br/>
+<br/>
+<code>&dash; See you soon!</code>
+<!-- <Nav />
 <slot />
-<Footer />
+<Footer /> -->
