@@ -12,7 +12,7 @@
   &copy; 2023-2024 Goraya & Flatla
   <img
     class="dimmed"
-    src="/UofG_Identifier_stacked_blk_rgb.png"
+    src="/UofG_Identifier_stacked_blk_rgb.svg"
     alt="The logo of the University of Guelph. In a serif font it displays the words 'University' at the top and 'of Guelph' just below it. The logo is surrounded by straight lines stacked on the top of the logo and on the bottom."
   />
 </footer>

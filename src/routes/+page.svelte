@@ -111,7 +111,7 @@
     <!-- <h3>Contact</h3> -->
     <p class="study-info">
       <b>If you fit our criteria and would like to participate: </b> please email
-      <a href="mailto:gorayas@uoguelph.ca">gorayas@uoguelph.ca</a> expressing your interest, we'd love
+      <a href="mailto:gorayas@uoguelph.ca?subject=[Design System Study] Interest Request">gorayas@uoguelph.ca</a> expressing your interest, we'd love
       to have you!
     </p>
     <p>
