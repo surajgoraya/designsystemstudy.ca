@@ -16,7 +16,7 @@
     <h3>The Researchers</h3>
     <div id="david-flatla">
       <div class="image_container">
-        <img src="researchers/david_flatla.jpg" alt="a front on of David Flatla" />
+        <img src="/researchers/david_flatla.jpg" alt="a front on of David Flatla" />
       </div>
       <p>
         <strong>David Flatla</strong> is an
@@ -30,7 +30,7 @@
     </div>
     <div id="suraj-goraya">
       <div class="image_container">
-        <img src="researchers/suraj_goraya.jpg" alt="a 3/4ths side profile of Suraj" />
+        <img src="/researchers/suraj_goraya.jpg" alt="a 3/4ths side profile of Suraj" />
       </div>
       <p>
         <strong>Surajpratap Goraya</strong> is a MSc Candidate at the University of Guelph, his research

@@ -4,39 +4,3 @@
 body {
   font-family: 'Inter', sans-serif;
 }
-
-.nav {
-  margin-top: 1rem;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
-nav .brand {
-  width: 10rem;
-}
-
-.navigation {
-  list-style: none;
-  display: flex;
-  gap: 0.5rem;
-  padding: 0px;
-}
-
-.navigation > li:not(:last-child)::after {
-  content: ' · ';
-}
-
-@media screen and (max-width: 640px) {
-  .nav {
-    margin-top: 2rem;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    justify-content: center;
-  }
-
-  nav .brand {
-    width: 10rem;
-  }
-}
