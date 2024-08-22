@@ -4,6 +4,7 @@ import adapter from '@sveltejs/adapter-static';
 const config = {
   kit: {
     adapter: adapter({
+      fallback: '404.html',
       // default options are shown. On some platforms
       // these options are set automatically — see below
       pages: 'build',
@@ -11,7 +12,10 @@ const config = {
       fallback: undefined,
       precompress: false,
       strict: true
-    })
+    }),
+    paths: {
+      base: process.argv.includes('dev') ? '' : process.env.BASE_PATH
+    }
   }
 };
 
